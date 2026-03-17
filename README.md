@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Connect with me
-* **University**: 광운대학교 전자시스템공학과 (3학년)
+* **University**: 국민대학교 전자시스템공학과 (3학년)
 * **Interests**: #Autonomous_Vehicles #Robotics #Web3 #Smart_Contract
 
 ---
